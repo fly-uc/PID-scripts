@@ -9,4 +9,4 @@
 - **ang_acc.m**: Newtonian accleration calculation
 - **trans_mat.m**: Transformation matrix for angular velocities from the global frame to the body frame
 
-*Reference detailed documentation on scripts and equations in Reference Documentation > Documentation.pdf*
+*Reference detailed documentation on scripts and equations in Relevant Documentation > Documentation.pdf*
